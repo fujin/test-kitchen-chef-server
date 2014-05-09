@@ -1,0 +1,5 @@
+DEPENDENCIES
+  chef-server
+
+GRAPH
+  chef-server (2.1.4)
